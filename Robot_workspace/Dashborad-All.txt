@@ -1,0 +1,46 @@
+*** Settings ***
+Suite Setup       Login_retry
+Suite Teardown    Close Browser
+Library           Selenium2Library
+Resource          common.txt
+Resource          VPC_Resource_Dashbord.txt
+
+*** Test Cases ***
+Dashborad-To-VPC
+    Wait Until Keyword Succeeds    3x    3s    Dashborad-To-VPC
+
+Dashborad-To-SecurityGroup
+    Wait Until Keyword Succeeds    3x    3s    Dashborad-To-SecurityGroup
+
+Dashborad-To-Network ACLs
+    Wait Until Keyword Succeeds    3x    3s    Dashborad-To-Network ACLs
+
+Dashborad-To-Eips
+    Wait Until Keyword Succeeds    3x    3s    Dashborad-To-Eips
+
+Dashborad-To-ShareBandwidth
+    Wait Until Keyword Succeeds    3x    3s    Dashborad-To-ShareBandwidth
+
+Dashborad-To-NAT Gateways
+    Wait Until Keyword Succeeds    3x    3s    Dashborad-To-NAT Gateways
+
+Dashborad-To-Elastic Load Balance
+    Wait Until Keyword Succeeds    3x    3s    Dashborad-To-Elastic Load Balance
+
+Dashborad-To-Peering Connections
+    Wait Until Keyword Succeeds    3x    3s    Dashborad-To-Peering Connections
+
+Dashborad-To-VPC Endpoints
+    Wait Until Keyword Succeeds    3x    3s    Dashborad-To-VPC Endpoints
+
+Dashborad-To-VPN Gateways
+    Wait Until Keyword Succeeds    3x    3s    Dashborad-To-VPN Gateways
+
+Dashborad-To-Direct Connections
+    Wait Until Keyword Succeeds    3x    3s    Dashborad-To-Direct Connections
+
+Dashborad-To-Cloud Connection
+    Wait Until Keyword Succeeds    3x    3s    Dashborad-To-Cloud Connection
+
+Dashborad-To-VPN Connections
+    Wait Until Keyword Succeeds    3x    3s    Dashborad-To-VPN Connections

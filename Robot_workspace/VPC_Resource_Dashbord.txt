@@ -1,0 +1,91 @@
+*** Settings ***
+Library           Selenium2Library
+Resource          common.txt
+
+*** Keywords ***
+Dashborad-To-VPC
+    enter dashboard
+    wait click element    css=#_vpc
+    wait click element    jquery=button:contains(Create VPC)
+    wait input element    css=input[meta-data-uba="www_v1_vpc.click.vpc_createVpcList_name_input"]    vpc-temp01
+    Wait Until Page Contains    Basic Information
+
+Dashborad-To-SecurityGroup
+    enter dashboard
+    wait click element    css=#_securityGroup
+    wait click element    jquery=button span:contains(Create Security Group)
+    Wait Until Page Contains    Cloud services
+
+Dashborad-To-Network ACLs
+    enter dashboard
+    wait click element    css=#_firewall
+    wait click element    jquery=button span:contains(Create Network ACL)
+    Wait Until Page Contains    Cloud services
+
+Dashborad-To-Eips
+    enter dashboard
+    wait click element    css=#_eip
+    wait click element    jquery=button span:contains(Buy EIP)
+    Wait Until Page Contains    Billing Mode
+
+Dashborad-To-ShareBandwidth
+    enter dashboard
+    wait click element    css=#_shareBandwidth
+    wait click element    jquery=button span:contains(Buy Shared Bandwidth)
+    Wait Until Page Contains    Billing Mode
+
+Dashborad-To-NAT Gateways
+    enter dashboard
+    wait click element    css=#_nat
+    wait click element    jquery=button span:contains(Buy NAT Gateway)
+    Wait Until Page Contains    Billing Mode
+
+Dashborad-To-Elastic Load Balance
+    enter dashboard
+    wait click element    css=#_elb
+    wait click element    jquery=button span:contains(Buy Enhanced Load Balancer)
+    Wait Until Page Contains    Network Type
+
+Dashborad-To-Peering Connections
+    enter dashboard
+    wait click element    css=#_peering
+    wait click element    jquery=button span:contains(Create VPC Peering Connection)
+    Wait Until Page Contains    Local VPC Settings
+
+Dashborad-To-VPC Endpoints
+    enter dashboard
+    wait click element    css=#_vpcep
+    Wait Until Page Contains    Apply for VPC Endpoint OBT
+    wait click element    jquery=button:contains(Create Now)
+    Select Window    new
+    Wait Until Page Contains    Apply for Open Beta Test
+    Comment    Close Window
+
+Dashborad-To-VPN Gateways
+    enter dashboard
+    wait click element    css=#_vpngw
+    wait click element    jquery=button span:contains(Buy VPN Gateway)
+    Wait Until Page Contains    Billing Mode
+
+Dashborad-To-Direct Connections
+    enter dashboard
+    wait click element    css=#_dline
+    Wait Until Page Contains    Direct connections requested through
+    wait click element    css=#vpc_vpcmanager_physicalDlineTe
+    Wait Until Page Contains    To view direct connection history
+    wait click element    jquery=button span:contains(Buy Connection from Partner)
+    Select Window    new
+    Wait Until Page Contains    产品分类
+    Comment    Close Browser
+
+Dashborad-To-Cloud Connection
+    enter dashboard
+    wait click element    css=#_crossNetwork
+    wait click element    jquery=button span:contains(Create Cloud Connection)
+    Wait Until Page Contains    Cloud services
+
+Dashborad-To-VPN Connections
+    enter dashboard
+    wait click element    css=#_vpn
+    wait click element    jquery=button span:contains(Buy VPN Connection)
+    Wait Until Page Contains    Billing Mode

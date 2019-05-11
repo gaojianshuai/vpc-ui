@@ -1,0 +1,44 @@
+*** Settings ***
+Library           Selenium2Library
+
+*** Keywords ***
+wait element
+    [Arguments]    ${LOCATOR}
+    sleep    1
+    Wait Until Element Is Visible    ${LOCATOR}
+    Comment    Wait Until Element Is Enabled    ${LOCATOR}
+    Wait Until Page Contains Element    ${LOCATOR}
+    SLEEP    2
+
+wait input element
+    [Arguments]    ${LOCATOR}    ${INPUT_TEXT}
+    wait element    ${LOCATOR}
+    Input Text    ${LOCATOR}    ${INPUT_TEXT}
+
+wait click element
+    [Arguments]    ${LOCATOR}
+    wait element    ${LOCATOR}
+    Click Element    ${LOCATOR}
+
+Login_Beijing
+    wait input element    css=#userNameId    gwx613100
+    wait input element    css=#pwdId    Bigdata_2013
+    wait click element    css=#btn_submit
+    Wait Until Page Contains    Bind Email Address
+    wait click element    jquery=span button:contains(Bind Later)
+    Wait Until Page Contains    Quick Start Guide
+    Sleep    2
+
+Login_retry
+    Open Browser    https://console.huaweicloud.com/vpc/?region=cn-north-1&locale=en-us#/vpc/vpcmanager/dashboard    gc
+    Maximize Browser Window
+    Set Window Size    1920    1080
+    ${winsize}    Get Window Size
+    log    ${winsize}
+    Wait Until Keyword Succeeds    3x    3s    Login_Beijing
+
+enter dashboard
+    sleep    1
+    go to    https://console.huaweicloud.com/vpc/?region=cn-north-1&locale=en-us#/vpc/vpcmanager/dashboard
+    Wait Until Page Contains    Quick Start Guide
+    sleep    2
