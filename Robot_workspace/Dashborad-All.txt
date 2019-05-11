@@ -7,40 +7,53 @@ Resource          VPC_Resource_Dashbord.txt
 
 *** Test Cases ***
 Dashborad-To-VPC
+    [Tags]    hec
     Wait Until Keyword Succeeds    3x    3s    Dashborad-To-VPC
 
 Dashborad-To-SecurityGroup
+    [Tags]    hec
     Wait Until Keyword Succeeds    3x    3s    Dashborad-To-SecurityGroup
 
 Dashborad-To-Network ACLs
+    [Tags]    hec
     Wait Until Keyword Succeeds    3x    3s    Dashborad-To-Network ACLs
 
 Dashborad-To-Eips
+    [Tags]    hec
     Wait Until Keyword Succeeds    3x    3s    Dashborad-To-Eips
 
 Dashborad-To-ShareBandwidth
+    [Tags]    hec
     Wait Until Keyword Succeeds    3x    3s    Dashborad-To-ShareBandwidth
 
 Dashborad-To-NAT Gateways
+    [Tags]    hec
     Wait Until Keyword Succeeds    3x    3s    Dashborad-To-NAT Gateways
 
 Dashborad-To-Elastic Load Balance
+    [Tags]    hec
     Wait Until Keyword Succeeds    3x    3s    Dashborad-To-Elastic Load Balance
 
 Dashborad-To-Peering Connections
+    [Tags]    hec
     Wait Until Keyword Succeeds    3x    3s    Dashborad-To-Peering Connections
 
 Dashborad-To-VPC Endpoints
+    [Tags]    hec
     Wait Until Keyword Succeeds    3x    3s    Dashborad-To-VPC Endpoints
 
 Dashborad-To-VPN Gateways
+    [Tags]    hec
     Wait Until Keyword Succeeds    3x    3s    Dashborad-To-VPN Gateways
 
 Dashborad-To-Direct Connections
+    [Tags]    hec
     Wait Until Keyword Succeeds    3x    3s    Dashborad-To-Direct Connections
 
 Dashborad-To-Cloud Connection
+    [Tags]    hec
     Wait Until Keyword Succeeds    3x    3s    Dashborad-To-Cloud Connection
 
 Dashborad-To-VPN Connections
+    [Tags]    hec
     Wait Until Keyword Succeeds    3x    3s    Dashborad-To-VPN Connections
