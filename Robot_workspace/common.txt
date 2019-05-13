@@ -24,8 +24,8 @@ Login_Beijing
     wait input element    css=#userNameId    gwx613100
     wait input element    css=#pwdId    Bigdata_2013
     wait click element    css=#btn_submit
-    Wait Until Page Contains    Bind Email Address
-    wait click element    jquery=span button:contains(Bind Later)
+    Comment    Wait Until Page Contains    Bind Email Address
+    Comment    wait click element    jquery=span button:contains(Bind Later)
     Wait Until Page Contains    Quick Start Guide
     Sleep    2
 
