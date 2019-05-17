@@ -1,0 +1,986 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="dd7b3406-df83-481b-90ed-23a80df4d93d" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="pycharm_practice" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Python_Object/python_pachong_practice_001.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="252">
+              <caret line="13" selection-start-line="13" selection-end-line="13" />
+              <folding>
+                <element signature="e#74#103#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Python_Object/pachong_practice_douban.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="525">
+              <caret line="26" selection-start-line="26" selection-end-line="26" />
+              <folding>
+                <element signature="e#75#104#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Python_Object/pachong_practice_douban2.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="580">
+              <caret line="47" column="18" lean-forward="true" selection-start-line="47" selection-start-column="18" selection-end-line="47" selection-end-column="18" />
+              <folding>
+                <element signature="e#75#104#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Python_Object/douban_003.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="168">
+              <caret line="8" selection-start-line="8" selection-end-line="8" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Python_Object/python_pachong_practice_002.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="504">
+              <caret line="28" column="37" selection-start-line="28" selection-start-column="37" selection-end-line="28" selection-end-column="37" />
+              <folding>
+                <element signature="e#74#100#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pycharm_practice_air_quality/pycharm_practice_quality_pachong2.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="294">
+              <caret line="15" column="44" selection-start-line="15" selection-start-column="44" selection-end-line="15" selection-end-column="44" />
+              <folding>
+                <element signature="e#107#122#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pycharm_practice_air_quality/pycharm_practice_quality5_pachong.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="798">
+              <caret line="38" column="26" selection-start-line="38" selection-start-column="26" selection-end-line="38" selection-end-column="26" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pycharm_practice_air_quality/pycharm_practice_quality_pachong5.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="861">
+              <caret line="43" column="10" selection-start-line="43" selection-start-column="10" selection-end-line="43" selection-end-column="10" />
+              <folding>
+                <element signature="e#129#144#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pycharm_practice_air_quality/pycharm_practice_pachong7.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="231">
+              <caret line="15" column="18" selection-start-line="15" selection-start-column="18" selection-end-line="15" selection-end-column="18" />
+              <folding>
+                <element signature="e#64#79#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pycharm_practice_air_quality/top10_aqi.csv">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>alt</find>
+    </findStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/pycharm_practice_money/pycharm_practice_money2.py" />
+        <option value="$PROJECT_DIR$/pycharm_practice_money/pycharm_practice_money4.py" />
+        <option value="$PROJECT_DIR$/pycharm_practice_money/pycharm_practice_money5.py" />
+        <option value="$PROJECT_DIR$/pycharm_practice_whichday/pycharm_practice_whichday1.py" />
+        <option value="$PROJECT_DIR$/pycharm_practice_whichday/pycharm_practice_whichday2.py" />
+        <option value="$PROJECT_DIR$/pycharm_practice_whichday/pycharm_practice_whichday3.py" />
+        <option value="$PROJECT_DIR$/pycharm_practice_whichday/pycharm_practice_whichday4.py" />
+        <option value="$PROJECT_DIR$/pycharm_practice_passwd/pycharm_practice_passwd1.py" />
+        <option value="$PROJECT_DIR$/pycharm_practice_passwd/pycharm_practice_passwd2.py" />
+        <option value="$PROJECT_DIR$/pycharm_practice_passwd/password_3.0.txt" />
+        <option value="$PROJECT_DIR$/pycharm_practice_passwd/pycharm_practice_passwd3.py" />
+        <option value="$PROJECT_DIR$/pycharm_practice_passwd/pycharm_practice_passwd4.py" />
+        <option value="$PROJECT_DIR$/pycharm_practice_passwd/pycharm_practice_passwd5.py" />
+        <option value="$PROJECT_DIR$/pycharm_practice_passwd/pycharm_practice_passwd6.py" />
+        <option value="$PROJECT_DIR$/pycharm_practice_random/pycharm_practice_random1.py" />
+        <option value="$PROJECT_DIR$/pycharm_practice_random/pycharm_practice_random2.py" />
+        <option value="$PROJECT_DIR$/pycharm_practice_webdriver/pycharm_practice_unittest1.py" />
+        <option value="$PROJECT_DIR$/pycharm_practice_random/pycharm_practice_random3.py" />
+        <option value="$PROJECT_DIR$/pycharm_practice_random/pycharm_practice_random4.py" />
+        <option value="$PROJECT_DIR$/pycharm_practice_random/pycharm_practice_random5" />
+        <option value="$PROJECT_DIR$/pycharm_practice_random/pycharm_practice_random_kehouzuoye.py" />
+        <option value="$PROJECT_DIR$/pycharm_practice_air_quality.py" />
+        <option value="$PROJECT_DIR$/pycharm_practice_air_quality/pycharm_practice_air_quality1.py" />
+        <option value="$PROJECT_DIR$/pycharm_practice_air_quality/pycharm_practice_air_quality2.py" />
+        <option value="$PROJECT_DIR$/pycharm_practice_air_quality/pycharm_practice_air_quality3.py" />
+        <option value="$PROJECT_DIR$/pycharm_practice_air_quality/pycharm_practice_quality4.py" />
+        <option value="$PROJECT_DIR$/pycharm_practice_air_quality/pycharm_practice_quality5_pachong.py" />
+        <option value="$PROJECT_DIR$/pycharm_practice_air_quality/pycharm_practice_quality_pachong2.py" />
+        <option value="$PROJECT_DIR$/pycharm_practice_air_quality/pycharm_practice_quality_pachong3.py" />
+        <option value="$PROJECT_DIR$/pycharm_practice_air_quality/pycharm_practice_quality_pachong4.py" />
+        <option value="$PROJECT_DIR$/pycharm_practice_air_quality/pycharm_practice_quality_pachong5.py" />
+        <option value="$PROJECT_DIR$/pycharm_practice_air_quality/pycharm_practice_quality_pachong6.py" />
+        <option value="$PROJECT_DIR$/pycharm_practice_air_quality/pycharm_practice_pachong_practice.py" />
+        <option value="$PROJECT_DIR$/pycharm_practice_webdriver/pycharm_practice_webdriver1.py" />
+        <option value="$PROJECT_DIR$/pycharm_practice_webdriver/Login_in.py" />
+        <option value="$PROJECT_DIR$/pycharm_practice_webdriver/mouse_practice_webdriver.py" />
+        <option value="$PROJECT_DIR$/pycharm_practice_webdriver/practice_webdriver_login_vpc.py" />
+        <option value="$PROJECT_DIR$/pycharm_practice_webdriver/pycharm_practice_unittest2.py" />
+        <option value="$PROJECT_DIR$/Python_Object/python_object_01.py" />
+        <option value="$PROJECT_DIR$/Python_Object/python_object_03.py" />
+        <option value="$PROJECT_DIR$/Python_Object/python_object_04.py" />
+        <option value="$PROJECT_DIR$/Python_Object/python_object_02.py" />
+        <option value="$PROJECT_DIR$/Python_Object/123123.py" />
+        <option value="$PROJECT_DIR$/Python_Object/python_object_05.py" />
+        <option value="$PROJECT_DIR$/Python_Object/python_object_06.py" />
+        <option value="$PROJECT_DIR$/pycharm_practice_air_quality/pycharm_practice_pachong7.py" />
+        <option value="$PROJECT_DIR$/Python_Object/python_pachong_practice_002.py" />
+        <option value="$PROJECT_DIR$/Python_Object/python_pachong_practice_001.py" />
+        <option value="$PROJECT_DIR$/Python_Object/pachong_practice_douban.py" />
+        <option value="$PROJECT_DIR$/Python_Object/douban_003.py" />
+        <option value="$PROJECT_DIR$/Python_Object/pachong_practice_douban2.py" />
+      </list>
+    </option>
+  </component>
+  <component name="JsFlowSettings">
+    <service-enabled>true</service-enabled>
+    <exe-path />
+    <other-services-enabled>true</other-services-enabled>
+    <auto-save>true</auto-save>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="15" />
+    <option name="y" value="18" />
+    <option name="width" value="1346" />
+    <option name="height" value="688" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <showMembers ProjectPane="true" />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="pycharm_practice" type="b2602c69:ProjectViewProjectNode" />
+              <item name="pycharm_practice" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="pycharm_practice" type="b2602c69:ProjectViewProjectNode" />
+              <item name="pycharm_practice" type="462c0819:PsiDirectoryNode" />
+              <item name="pycharm_practice_air_quality" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="pycharm_practice" type="b2602c69:ProjectViewProjectNode" />
+              <item name="pycharm_practice" type="462c0819:PsiDirectoryNode" />
+              <item name="Python_Object" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Python_Object" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\pycharm\pycharm_practice\Python_Object" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.pachong_practice_douban2">
+    <configuration name="pachong_practice_douban" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="pycharm_practice" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python_Object" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python_Object/pachong_practice_douban.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="pachong_practice_douban2" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="pycharm_practice" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python_Object" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python_Object/pachong_practice_douban2.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="pycharm_practice_quality_pachong5" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="pycharm_practice" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/pycharm_practice_air_quality" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/pycharm_practice_air_quality/pycharm_practice_quality_pachong5.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="python_pachong_practice_001" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="pycharm_practice" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python_Object" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python_Object/python_pachong_practice_001.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="python_pachong_practice_002" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="pycharm_practice" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python_Object" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python_Object/python_pachong_practice_002.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.pachong_practice_douban2" />
+        <item itemvalue="Python.pachong_practice_douban" />
+        <item itemvalue="Python.python_pachong_practice_001" />
+        <item itemvalue="Python.python_pachong_practice_002" />
+        <item itemvalue="Python.pycharm_practice_quality_pachong5" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="dd7b3406-df83-481b-90ed-23a80df4d93d" name="Default Changelist" comment="" />
+      <created>1553959653047</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1553959653047</updated>
+      <workItem from="1553959664204" duration="963000" />
+      <workItem from="1553962944627" duration="7734000" />
+      <workItem from="1554025451699" duration="42359000" />
+      <workItem from="1554382743178" duration="15315000" />
+      <workItem from="1554449730175" duration="5888000" />
+      <workItem from="1554474025518" duration="31663000" />
+      <workItem from="1554605541418" duration="11594000" />
+      <workItem from="1554733796358" duration="7823000" />
+      <workItem from="1554813489160" duration="39736000" />
+      <workItem from="1555232582484" duration="804000" />
+      <workItem from="1555332955041" duration="4718000" />
+      <workItem from="1556347841477" duration="2934000" />
+      <workItem from="1556877642434" duration="1186000" />
+      <workItem from="1556949050111" duration="510000" />
+      <workItem from="1556949582486" duration="1138000" />
+      <workItem from="1556950885966" duration="134000" />
+      <workItem from="1556951160836" duration="283000" />
+      <workItem from="1557566616495" duration="4328000" />
+      <workItem from="1557626287555" duration="28581000" />
+      <workItem from="1557748315700" duration="2150000" />
+      <workItem from="1557750774556" duration="2515000" />
+      <workItem from="1557834356142" duration="8079000" />
+      <workItem from="1557920939980" duration="4235000" />
+      <workItem from="1557999793030" duration="12067000" />
+      <workItem from="1558023009804" duration="2246000" />
+      <workItem from="1558094999061" duration="6349000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="Unittests_in_practice_webdriver_login_vpc_py - 2019.05.12 at 23h 02m 17s.xml">
+      <configuration name="Unittests in practice_webdriver_login_vpc.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_practice_webdriver_login_vpc_myclass_test_dashboard_sg - 2019.05.12 at 23h 03m 25s.xml">
+      <configuration name="Unittests for practice_webdriver_login_vpc.myclass.test_dashboard_sg" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_practice_webdriver_login_vpc_py - 2019.05.12 at 23h 04m 52s.xml">
+      <configuration name="Unittests in practice_webdriver_login_vpc.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_practice_webdriver_login_vpc_myclass - 2019.05.12 at 23h 24m 01s.xml">
+      <configuration name="Unittests for practice_webdriver_login_vpc.myclass" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_practice_webdriver_login_vpc_myclass_test_dashboard_eips - 2019.05.12 at 23h 34m 39s.xml">
+      <configuration name="Unittests for practice_webdriver_login_vpc.myclass.test_dashboard_eips" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_practice_webdriver_login_vpc_myclass - 2019.05.12 at 23h 35m 36s.xml">
+      <configuration name="Unittests for practice_webdriver_login_vpc.myclass" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_practice_webdriver_login_vpc_myclass_test_dashboard_crossNetwork - 2019.05.12 at 23h 40m 33s.xml">
+      <configuration name="Unittests for practice_webdriver_login_vpc.myclass.test_dashboard_crossNetwork" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_practice_webdriver_login_vpc_py - 2019.05.12 at 23h 48m 34s.xml">
+      <configuration name="Unittests in practice_webdriver_login_vpc.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_pycharm_practice_unittest2_mytest - 2019.05.13 at 00h 00m 07s.xml">
+      <configuration name="Unittests for pycharm_practice_unittest2.mytest" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_pycharm_practice_unittest2_py - 2019.05.13 at 21h 15m 56s.xml">
+      <configuration name="Unittests in pycharm_practice_unittest2.py" configurationId="tests" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="245332000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.4983871" visible="true" weight="0.20149253" />
+      <window_info id="Structure" order="1" sideWeight="0.5016129" side_tool="true" weight="0.15618336" />
+      <window_info id="Favorites" order="2" sideWeight="0.5016129" side_tool="true" weight="0.15618336" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49307036" weight="0.32900432" />
+      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.4992224" weight="0.3982684" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" sideWeight="0.4984448" weight="0.3291367" />
+      <window_info anchor="bottom" id="Database Changes" order="7" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Terminal" order="9" weight="0.32900432" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.50692964" side_tool="true" weight="0.32900432" />
+      <window_info anchor="bottom" id="Python Console" order="11" sideWeight="0.4968896" weight="0.32900432" />
+      <window_info anchor="bottom" id="Docker" order="12" show_stripe_button="false" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="SciView" order="3" weight="0.32970452" />
+      <window_info anchor="right" id="R Packages" order="4" weight="0.32970452" />
+      <window_info anchor="right" id="Database" order="5" />
+      <window_info anchor="right" id="R Graphics" order="6" />
+    </layout>
+    <layout-to-restore>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2822706" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49300155" weight="0.3291367" />
+      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.4992224" weight="0.39928058" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" sideWeight="0.4984448" weight="0.3291367" />
+      <window_info anchor="bottom" id="Database Changes" order="7" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Terminal" order="9" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.5031104" side_tool="true" weight="0.3291367" />
+      <window_info anchor="bottom" id="Python Console" order="11" sideWeight="0.4968896" weight="0.3291367" />
+      <window_info anchor="bottom" id="Docker" order="12" show_stripe_button="false" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="SciView" order="3" weight="0.32970452" />
+      <window_info anchor="right" id="R Packages" order="4" weight="0.32970452" />
+      <window_info anchor="right" id="Database" order="5" />
+      <window_info anchor="right" id="R Graphics" order="6" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/pycharm_practice_passwd/pycharm_practice_passwd5.py</url>
+          <line>60</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/pycharm_practice$pycharm_practice_money5.coverage" NAME="pycharm_practice_money5 Coverage Results" MODIFIED="1554390052862" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pycharm_practice_money" />
+    <SUITE FILE_PATH="coverage/pycharm_practice$pycharm_practice_tree1.coverage" NAME="pycharm_practice_tree1 Coverage Results" MODIFIED="1554131348751" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pycharm_practice_tree" />
+    <SUITE FILE_PATH="coverage/pycharm_practice$pycharm_practice_random5.coverage" NAME="pycharm_practice_random5 Coverage Results" MODIFIED="1554814218183" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pycharm_practice_random" />
+    <SUITE FILE_PATH="coverage/pycharm_practice$pycharm_practice_passwd3.coverage" NAME="pycharm_practice_passwd3 Coverage Results" MODIFIED="1554491685280" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pycharm_practice_passwd" />
+    <SUITE FILE_PATH="coverage/pycharm_practice$pycharm_practice_passwd6.coverage" NAME="pycharm_practice_passwd6 Coverage Results" MODIFIED="1554570221351" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pycharm_practice_passwd" />
+    <SUITE FILE_PATH="coverage/pycharm_practice$Unittests_for_pycharm_practice_unittest2_mytest.coverage" NAME="Unittests for pycharm_practice_unittest2.mytest Coverage Results" MODIFIED="1557676807072" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pycharm_practice_webdriver" />
+    <SUITE FILE_PATH="coverage/pycharm_practice$pycharm_practice_money2.coverage" NAME="pycharm_practice_money2 Coverage Results" MODIFIED="1554383252562" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pycharm_practice_money" />
+    <SUITE FILE_PATH="coverage/pycharm_practice$python_pachong_practice_001.coverage" NAME="python_pachong_practice_001 Coverage Results" MODIFIED="1558020074588" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python_Object" />
+    <SUITE FILE_PATH="coverage/pycharm_practice$pycharm_practice_random2.coverage" NAME="pycharm_practice_random2 Coverage Results" MODIFIED="1554614774628" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pycharm_practice_random" />
+    <SUITE FILE_PATH="coverage/pycharm_practice$pycharm_practice_bmr3.coverage" NAME="pycharm_practice_bmr3 Coverage Results" MODIFIED="1554294090344" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pycharm_practice_bmr" />
+    <SUITE FILE_PATH="coverage/pycharm_practice$pycharm_practice_quality_pachong6.coverage" NAME="pycharm_practice_quality_pachong6 Coverage Results" MODIFIED="1555076306855" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pycharm_practice_air_quality" />
+    <SUITE FILE_PATH="coverage/pycharm_practice$pycharm_practice_whichday3.coverage" NAME="pycharm_practice_whichday3 Coverage Results" MODIFIED="1554445819298" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pycharm_practice_whichday" />
+    <SUITE FILE_PATH="coverage/pycharm_practice$pycharm_practice_tree4.coverage" NAME="pycharm_practice_tree4 Coverage Results" MODIFIED="1554215487760" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pycharm_practice_tree" />
+    <SUITE FILE_PATH="coverage/pycharm_practice$pycharm_practice_quality_pachong3.coverage" NAME="pycharm_practice_quality_pachong3 Coverage Results" MODIFIED="1554994488923" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pycharm_practice_air_quality" />
+    <SUITE FILE_PATH="coverage/pycharm_practice$pycharm_practice_passwd1.coverage" NAME="pycharm_practice_passwd1 Coverage Results" MODIFIED="1554488566177" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pycharm_practice_passwd" />
+    <SUITE FILE_PATH="coverage/pycharm_practice$pycharm_practice_pachong_practice.coverage" NAME="pycharm_practice_pachong_practice Coverage Results" MODIFIED="1556891682714" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pycharm_practice_air_quality" />
+    <SUITE FILE_PATH="coverage/pycharm_practice$python_pachong_practice_002.coverage" NAME="python_pachong_practice_002 Coverage Results" MODIFIED="1558018685082" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python_Object" />
+    <SUITE FILE_PATH="coverage/pycharm_practice$pycharm_practice_air_quality1.coverage" NAME="pycharm_practice_air_quality1 Coverage Results" MODIFIED="1554817718503" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pycharm_practice_air_quality" />
+    <SUITE FILE_PATH="coverage/pycharm_practice$pycharm_practice_quality_pachong2.coverage" NAME="pycharm_practice_quality_pachong2 Coverage Results" MODIFIED="1554992611354" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pycharm_practice_air_quality" />
+    <SUITE FILE_PATH="coverage/pycharm_practice$pycharm_practice_random1.coverage" NAME="pycharm_practice_random1 Coverage Results" MODIFIED="1554613518075" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pycharm_practice_random" />
+    <SUITE FILE_PATH="coverage/pycharm_practice$practice_exchange_rate3.coverage" NAME="practice_exchange_rate3 Coverage Results" MODIFIED="1554050001142" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pycharm_practice_listen1" />
+    <SUITE FILE_PATH="coverage/pycharm_practice$pycharm_practice_money1.coverage" NAME="pycharm_practice_money1 Coverage Results" MODIFIED="1554297338663" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pycharm_practice_money" />
+    <SUITE FILE_PATH="coverage/pycharm_practice$pachong_practice_douban.coverage" NAME="pachong_practice_douban Coverage Results" MODIFIED="1558020961847" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python_Object" />
+    <SUITE FILE_PATH="coverage/pycharm_practice$python_object_01.coverage" NAME="python_object_01 Coverage Results" MODIFIED="1557835812510" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python_Object" />
+    <SUITE FILE_PATH="coverage/pycharm_practice$pycharm_practice_bmr4.coverage" NAME="pycharm_practice_bmr4 Coverage Results" MODIFIED="1554294909855" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pycharm_practice_bmr" />
+    <SUITE FILE_PATH="coverage/pycharm_practice$pycharm_practice_webdriver1.coverage" NAME="pycharm_practice_webdriver1 Coverage Results" MODIFIED="1556891731403" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pycharm_practice_webdriver" />
+    <SUITE FILE_PATH="coverage/pycharm_practice$Unittests_for_practice_webdriver_login_vpc_myclass_test_dashboard_sg.coverage" NAME="Unittests for practice_webdriver_login_vpc.myclass.test_dashboard_sg Coverage Results" MODIFIED="1557673385208" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pycharm_practice_webdriver" />
+    <SUITE FILE_PATH="coverage/pycharm_practice$Unittests_in_pycharm_practice_unittest1_py.coverage" NAME="Unittests in pycharm_practice_unittest1.py Coverage Results" MODIFIED="1554618854043" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pycharm_practice_webdriver" />
+    <SUITE FILE_PATH="coverage/pycharm_practice$python_object_02.coverage" NAME="python_object_02 Coverage Results" MODIFIED="1557934099036" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python_Object" />
+    <SUITE FILE_PATH="coverage/pycharm_practice$Unittests_for_practice_webdriver_login_vpc_myclass_test_dashborad_vpc.coverage" NAME="Unittests for practice_webdriver_login_vpc.myclass.test_dashborad_vpc Coverage Results" MODIFIED="1557671883650" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pycharm_practice_webdriver" />
+    <SUITE FILE_PATH="coverage/pycharm_practice$practice_exchange_rate2.coverage" NAME="practice_exchange_rate2 Coverage Results" MODIFIED="1554025589865" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pycharm_practice_listen1" />
+    <SUITE FILE_PATH="coverage/pycharm_practice$pycharm_practice_whichday2.coverage" NAME="pycharm_practice_whichday2 Coverage Results" MODIFIED="1554443896890" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pycharm_practice_whichday" />
+    <SUITE FILE_PATH="coverage/pycharm_practice$pycharm_practice_bmr2.coverage" NAME="pycharm_practice_bmr2 Coverage Results" MODIFIED="1554219382053" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pycharm_practice_bmr" />
+    <SUITE FILE_PATH="coverage/pycharm_practice$pycharm_practice_bmr5.coverage" NAME="pycharm_practice_bmr5 Coverage Results" MODIFIED="1554295531356" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pycharm_practice_bmr" />
+    <SUITE FILE_PATH="coverage/pycharm_practice$python_object_06.coverage" NAME="python_object_06 Coverage Results" MODIFIED="1558017149344" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python_Object" />
+    <SUITE FILE_PATH="coverage/pycharm_practice$pycharm_practice_unittest2.coverage" NAME="pycharm_practice_unittest2 Coverage Results" MODIFIED="1557640211438" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pycharm_practice_webdriver" />
+    <SUITE FILE_PATH="coverage/pycharm_practice$python_object_03.coverage" NAME="python_object_03 Coverage Results" MODIFIED="1557840392949" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python_Object" />
+    <SUITE FILE_PATH="coverage/pycharm_practice$Unittests_for_practice_webdriver_login_vpc_myclass_test_dashboard_eips.coverage" NAME="Unittests for practice_webdriver_login_vpc.myclass.test_dashboard_eips Coverage Results" MODIFIED="1557675255781" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pycharm_practice_webdriver" />
+    <SUITE FILE_PATH="coverage/pycharm_practice$Unittests_for_practice_webdriver_login_vpc_myclass.coverage" NAME="Unittests for practice_webdriver_login_vpc.myclass Coverage Results" MODIFIED="1557675319001" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pycharm_practice_webdriver" />
+    <SUITE FILE_PATH="coverage/pycharm_practice$pycharm_practice_quality_pachong4.coverage" NAME="pycharm_practice_quality_pachong4 Coverage Results" MODIFIED="1558017536631" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pycharm_practice_air_quality" />
+    <SUITE FILE_PATH="coverage/pycharm_practice$Unittests_in_pycharm_practice_unittest2_py.coverage" NAME="Unittests in pycharm_practice_unittest2.py Coverage Results" MODIFIED="1557753355403" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pycharm_practice_webdriver" />
+    <SUITE FILE_PATH="coverage/pycharm_practice$pycharm_practice_whichday4.coverage" NAME="pycharm_practice_whichday4 Coverage Results" MODIFIED="1554474695983" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pycharm_practice_whichday" />
+    <SUITE FILE_PATH="coverage/pycharm_practice$pycharm_practice_pachong7.coverage" NAME="pycharm_practice_pachong7 Coverage Results" MODIFIED="1555168924549" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pycharm_practice_air_quality" />
+    <SUITE FILE_PATH="coverage/pycharm_practice$pycharm_practice_tree2.coverage" NAME="pycharm_practice_tree2 Coverage Results" MODIFIED="1554133405945" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pycharm_practice_tree" />
+    <SUITE FILE_PATH="coverage/pycharm_practice$pycharm_practice_random3.coverage" NAME="pycharm_practice_random3 Coverage Results" MODIFIED="1554738160831" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pycharm_practice_random" />
+    <SUITE FILE_PATH="coverage/pycharm_practice$practice_exchange_rate4.coverage" NAME="practice_exchange_rate4 Coverage Results" MODIFIED="1554213366347" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pycharm_practice_listen1" />
+    <SUITE FILE_PATH="coverage/pycharm_practice$pycharm_practice_money3.coverage" NAME="pycharm_practice_money3 Coverage Results" MODIFIED="1554384017629" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pycharm_practice_money" />
+    <SUITE FILE_PATH="coverage/pycharm_practice$pycharm_practice_passwd2.coverage" NAME="pycharm_practice_passwd2 Coverage Results" MODIFIED="1554489887157" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pycharm_practice_passwd" />
+    <SUITE FILE_PATH="coverage/pycharm_practice$testrunner.coverage" NAME="testrunner Coverage Results" MODIFIED="1557589592423" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="C:/Python27/Lib/site-packages/robotide/contrib/testrunner" />
+    <SUITE FILE_PATH="coverage/pycharm_practice$pycharm_practice_whichday1.coverage" NAME="pycharm_practice_whichday1 Coverage Results" MODIFIED="1554442557551" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pycharm_practice_whichday" />
+    <SUITE FILE_PATH="coverage/pycharm_practice$pycharm_practice_passwd5.coverage" NAME="pycharm_practice_passwd5 Coverage Results" MODIFIED="1554568764808" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pycharm_practice_passwd" />
+    <SUITE FILE_PATH="coverage/pycharm_practice$practice_exchange_rate.coverage" NAME="practice_exchange_rate Coverage Results" MODIFIED="1553966003260" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pycharm_practice_listen1" />
+    <SUITE FILE_PATH="coverage/pycharm_practice$pycharm_practice_passwd4.coverage" NAME="pycharm_practice_passwd4 Coverage Results" MODIFIED="1554529413862" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pycharm_practice_passwd" />
+    <SUITE FILE_PATH="coverage/pycharm_practice$pycharm_practice_tree3.coverage" NAME="pycharm_practice_tree3 Coverage Results" MODIFIED="1554136386193" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pycharm_practice_tree" />
+    <SUITE FILE_PATH="coverage/pycharm_practice$pycharm_practice_random_kehouzuoye.coverage" NAME="pycharm_practice_random_kehouzuoye Coverage Results" MODIFIED="1554741603097" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pycharm_practice_random" />
+    <SUITE FILE_PATH="coverage/pycharm_practice$pycharm_practice_quality5_pachong.coverage" NAME="pycharm_practice_quality5_pachong Coverage Results" MODIFIED="1558017451870" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pycharm_practice_air_quality" />
+    <SUITE FILE_PATH="coverage/pycharm_practice$pycharm_practice_bmr1.coverage" NAME="pycharm_practice_bmr1 Coverage Results" MODIFIED="1554218093556" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pycharm_practice_bmr" />
+    <SUITE FILE_PATH="coverage/pycharm_practice$Unittests_in_practice_webdriver_login_vpc_py.coverage" NAME="Unittests in practice_webdriver_login_vpc.py Coverage Results" MODIFIED="1557675771470" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pycharm_practice_webdriver" />
+    <SUITE FILE_PATH="coverage/pycharm_practice$python_object_05.coverage" NAME="python_object_05 Coverage Results" MODIFIED="1557924738176" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python_Object" />
+    <SUITE FILE_PATH="coverage/pycharm_practice$Unittests_for_pycharm_practice_unittest2_mytest_testsum.coverage" NAME="Unittests for pycharm_practice_unittest2.mytest.testsum Coverage Results" MODIFIED="1554649364834" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pycharm_practice_webdriver" />
+    <SUITE FILE_PATH="coverage/pycharm_practice$pycharm_practice_quality_pachong5.coverage" NAME="pycharm_practice_quality_pachong5 Coverage Results" MODIFIED="1558017552184" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pycharm_practice_air_quality" />
+    <SUITE FILE_PATH="coverage/pycharm_practice$Unittests_for_pycharm_practice_unittest2_mytest_testsub.coverage" NAME="Unittests for pycharm_practice_unittest2.mytest.testsub Coverage Results" MODIFIED="1554622650935" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pycharm_practice_webdriver" />
+    <SUITE FILE_PATH="coverage/pycharm_practice$Unittests_for_practice_webdriver_login_vpc_myclass_test_dashboard_crossNetwork.coverage" NAME="Unittests for practice_webdriver_login_vpc.myclass.test_dashboard_crossNetwork Coverage Results" MODIFIED="1557675609912" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pycharm_practice_webdriver" />
+    <SUITE FILE_PATH="coverage/pycharm_practice$python_object_04.coverage" NAME="python_object_04 Coverage Results" MODIFIED="1558010341646" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python_Object" />
+    <SUITE FILE_PATH="coverage/pycharm_practice$pycharm_practice_money4.coverage" NAME="pycharm_practice_money4 Coverage Results" MODIFIED="1554385607988" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pycharm_practice_money" />
+    <SUITE FILE_PATH="coverage/pycharm_practice$pycharm_practice_random4.coverage" NAME="pycharm_practice_random4 Coverage Results" MODIFIED="1554739480753" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pycharm_practice_random" />
+    <SUITE FILE_PATH="coverage/pycharm_practice$pachong_practice_douban2.coverage" NAME="pachong_practice_douban2 Coverage Results" MODIFIED="1558097687273" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python_Object" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://G:/anaconda/anaconda_install/Lib/unittest/loader.py" />
+    <entry file="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3/unittest/__init__.pyi">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="722">
+          <caret line="45" column="51" selection-start-line="45" selection-start-column="51" selection-end-line="45" selection-end-column="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pycharm_practice_passwd/pycharm_practice_passwd4.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1216">
+          <caret line="64" column="30" selection-start-line="64" selection-start-column="30" selection-end-line="64" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pycharm_practice_random/pycharm_practice_random1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="589">
+          <caret line="31" column="10" selection-start-line="31" selection-start-column="10" selection-end-line="31" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pycharm_practice_passwd/pycharm_practice_passwd2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1083">
+          <caret line="57" column="10" selection-start-line="57" selection-start-column="10" selection-end-line="57" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pycharm_practice_random/pycharm_practice_random2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="316">
+          <caret line="31" column="59" selection-end-line="35" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pycharm_practice_random/pycharm_practice_random3.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="5" column="8" selection-start-line="5" selection-start-column="8" selection-end-line="5" selection-end-column="8" />
+          <folding>
+            <element signature="e#113#126#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pycharm_practice_random/pycharm_practice_random4.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="361">
+          <caret line="20" column="31" selection-start-line="20" selection-start-column="31" selection-end-line="20" selection-end-column="31" />
+          <folding>
+            <element signature="e#126#139#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pycharm_practice_air_quality.py" />
+    <entry file="file://$PROJECT_DIR$/pycharm_practice_random/pycharm_practice_random5">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="893">
+          <caret line="47" selection-start-line="47" selection-end-line="47" />
+          <folding>
+            <element signature="e#140#153#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pycharm_practice_air_quality/pycharm_practice_air_quality2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="12">
+          <caret line="12" column="7" selection-start-line="12" selection-start-column="7" selection-end-line="12" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pycharm_practice_random/pycharm_practice_random_kehouzuoye.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="703">
+          <caret line="48" column="20" selection-start-line="48" selection-start-column="20" selection-end-line="48" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pycharm_practice_passwd/pycharm_practice_passwd6.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="418">
+          <caret line="106" column="10" selection-start-line="106" selection-start-column="10" selection-end-line="106" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pycharm_practice_air_quality/pycharm_practice_air_quality3.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="183">
+          <caret line="19" column="20" selection-end-line="39" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pycharm_practice_air_quality/pycharm_practice_quality4.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="10" selection-end-column="3" />
+          <folding>
+            <element signature="e#209#219#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pycharm_practice_air_quality/pycharm_practice_quality_pachong3.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="57">
+          <caret line="3" column="10" selection-start-line="3" selection-start-column="10" selection-end-line="3" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/anaconda/anaconda/Lib/smtplib.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1083" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pycharm_practice_air_quality/pycharm_practice_quality_pachong6.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="855">
+          <caret line="48" column="10" selection-start-line="48" selection-start-column="10" selection-end-line="48" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pycharm_practice_air_quality/pycharm_practice_air_quality1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret line="78" column="10" selection-start-line="78" selection-start-column="10" selection-end-line="78" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pycharm_practice_passwd/pycharm_practice_passwd1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret line="13" column="25" selection-start-line="13" selection-start-column="25" selection-end-line="13" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pycharm_practice_air_quality/pycharm_practice_pachong_practice.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret line="22" column="26" selection-start-line="22" selection-start-column="26" selection-end-line="22" selection-end-column="26" />
+          <folding>
+            <element signature="e#64#79#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/venv/pip-selfcheck.json">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://D:/anaconda/anaconda/Lib/site-packages/selenium/webdriver/chrome/webdriver.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1134">
+          <caret line="59" selection-start-line="59" selection-end-line="59" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pycharm_practice_webdriver/pycharm_practice_webdriver1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="399">
+          <caret line="19" selection-start-line="19" selection-end-line="19" />
+          <folding>
+            <element signature="e#14#44#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://C:/Python27/Lib/site-packages/robotide/contrib/testrunner/testrunner.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1021">
+          <caret line="420" column="39" selection-start-line="420" selection-start-column="39" selection-end-line="420" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/anaconda/anaconda/Lib/unittest/suite.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="20" column="17" selection-start-line="20" selection-start-column="8" selection-end-line="20" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pycharm_practice_air_quality/china_city_aqi.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-399">
+          <caret line="5" column="27" selection-start-line="5" selection-start-column="27" selection-end-line="5" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pycharm_practice_webdriver/Login_in.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="672">
+          <caret line="32" selection-start-line="32" selection-end-line="32" />
+          <folding>
+            <element signature="e#14#29#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Python_Object/123123.py" />
+    <entry file="file://$PROJECT_DIR$/Python_Object/python_object_01.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="12" selection-start-column="12" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Python_Object/python_object_02.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="987">
+          <caret line="47" selection-start-line="47" selection-end-line="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pycharm_practice_webdriver/mouse_practice_webdriver.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="6" selection-start-line="6" selection-end-line="6" />
+          <folding>
+            <element signature="e#14#40#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Python_Object/python_object_04.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="549">
+          <caret line="29" selection-start-line="29" selection-end-line="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Python_Object/python_object_03.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="528">
+          <caret line="32" column="8" selection-start-line="32" selection-start-column="8" selection-end-line="32" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Python_Object/__init__.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pycharm_practice_webdriver/pycharm_practice_unittest2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="552">
+          <caret line="36" column="19" selection-start-line="36" selection-start-column="19" selection-end-line="36" selection-end-column="19" />
+          <folding>
+            <element signature="e#16#31#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pycharm_practice_webdriver/pycharm_practice_unittest1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="5" column="25" selection-start-line="5" selection-start-column="25" selection-end-line="5" selection-end-column="25" />
+          <folding>
+            <element signature="e#14#29#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pycharm_practice_webdriver/practice_webdriver_login_vpc.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="21" column="19" selection-start-line="21" selection-start-column="19" selection-end-line="21" selection-end-column="19" />
+          <folding>
+            <element signature="e#293#308#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Python_Object/python_object_05.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="378">
+          <caret line="18" selection-start-line="18" selection-end-line="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Python_Object/python_object_06.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="462">
+          <caret line="22" column="17" lean-forward="true" selection-start-line="22" selection-start-column="17" selection-end-line="22" selection-end-column="17" />
+          <folding>
+            <element signature="e#131#160#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pycharm_practice_air_quality/pycharm_practice_quality_pachong4.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="213">
+          <caret line="72" column="29" lean-forward="true" selection-start-line="72" selection-start-column="29" selection-end-line="72" selection-end-column="29" />
+          <folding>
+            <element signature="e#129#144#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Python_Object/python_pachong_practice_001.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="13" selection-start-line="13" selection-end-line="13" />
+          <folding>
+            <element signature="e#74#103#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Python_Object/pachong_practice_douban.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="525">
+          <caret line="26" selection-start-line="26" selection-end-line="26" />
+          <folding>
+            <element signature="e#75#104#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Python_Object/douban_003.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Python_Object/python_pachong_practice_002.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="504">
+          <caret line="28" column="37" selection-start-line="28" selection-start-column="37" selection-end-line="28" selection-end-column="37" />
+          <folding>
+            <element signature="e#74#100#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pycharm_practice_air_quality/pycharm_practice_quality_pachong2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="294">
+          <caret line="15" column="44" selection-start-line="15" selection-start-column="44" selection-end-line="15" selection-end-column="44" />
+          <folding>
+            <element signature="e#107#122#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pycharm_practice_air_quality/pycharm_practice_quality5_pachong.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="798">
+          <caret line="38" column="26" selection-start-line="38" selection-start-column="26" selection-end-line="38" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pycharm_practice_air_quality/pycharm_practice_quality_pachong5.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="861">
+          <caret line="43" column="10" selection-start-line="43" selection-start-column="10" selection-end-line="43" selection-end-column="10" />
+          <folding>
+            <element signature="e#129#144#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pycharm_practice_air_quality/pycharm_practice_pachong7.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="231">
+          <caret line="15" column="18" selection-start-line="15" selection-start-column="18" selection-end-line="15" selection-end-column="18" />
+          <folding>
+            <element signature="e#64#79#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pycharm_practice_air_quality/top10_aqi.csv">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Python_Object/pachong_practice_douban2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="580">
+          <caret line="47" column="18" lean-forward="true" selection-start-line="47" selection-start-column="18" selection-end-line="47" selection-end-column="18" />
+          <folding>
+            <element signature="e#75#104#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
