@@ -1,4 +1,4 @@
-*** Settings ***
+﻿*** Settings ***
 Library           Selenium2Library
 Resource          common.txt
 
@@ -14,13 +14,13 @@ Dashborad-To-SecurityGroup
     enter dashboard
     wait click element    css=#_securityGroup
     wait click element    jquery=button span:contains(Create Security Group)
-    Wait Until Page Contains    Cloud services
+    Wait Until Page Contains    Description
 
 Dashborad-To-Network ACLs
     enter dashboard
     wait click element    css=#_firewall
     wait click element    jquery=button span:contains(Create Network ACL)
-    Wait Until Page Contains    Cloud services
+    Wait Until Page Contains    Description
 
 Dashborad-To-Eips
     enter dashboard
@@ -82,7 +82,7 @@ Dashborad-To-Cloud Connection
     enter dashboard
     wait click element    css=#_crossNetwork
     wait click element    jquery=button span:contains(Create Cloud Connection)
-    Wait Until Page Contains    Cloud services
+    Wait Until Page Contains    Description
 
 Dashborad-To-VPN Connections
     enter dashboard
