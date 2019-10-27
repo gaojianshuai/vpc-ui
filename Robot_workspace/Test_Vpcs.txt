@@ -9,7 +9,7 @@ Create_vpc
     [Tags]    hec
     wait click element    css=#_vpc
     wait click element    jquery=button:contains(Create VPC)
-    wait input element    css=input[meta-data-uba="www_v1_vpc.click.vpc_createVpcList_name_input"]    vpc-temp01
+    wait input element    css=input[ng-model="$ctrl.vpcNameBox.value"]    vpc-temp01
     Wait Until Page Contains    Basic Information
 
 *** Keywords ***
