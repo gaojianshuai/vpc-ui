@@ -21,11 +21,9 @@ wait click element
     Click Element    ${LOCATOR}
 
 Login_Beijing
-    wait input element    css=#userNameId    gwx613100
-    wait input element    css=#pwdId    Bigdata_2013
-    wait click element    css=#btn_submit
-    Comment    Wait Until Page Contains    Bind Email Address
-    Comment    wait click element    jquery=span button:contains(Bind Later)
+    wait input element    css=#userNameId input    gwx613100
+    wait input element    css=#pwdId input    Bigdata_2013
+    wait click element    css=#loginForm #buttonArea:nth-child(1) #btn_submit
     Wait Until Page Contains    Quick Start Guide
     Sleep    2
 
@@ -42,3 +40,7 @@ enter dashboard
     go to    https://console.huaweicloud.com/vpc/?region=cn-north-1&locale=en-us#/vpc/vpcmanager/dashboard
     Wait Until Page Contains    Quick Start Guide
     sleep    2
+
+close new select old
+    Close Window
+    Select Window

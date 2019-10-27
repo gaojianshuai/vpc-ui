@@ -1,4 +1,4 @@
-﻿*** Settings ***
+*** Settings ***
 Library           Selenium2Library
 Resource          common.txt
 
@@ -7,7 +7,7 @@ Dashborad-To-VPC
     enter dashboard
     wait click element    css=#_vpc
     wait click element    jquery=button:contains(Create VPC)
-    wait input element    css=input[meta-data-uba="www_v1_vpc.click.vpc_createVpcList_name_input"]    vpc-temp01
+    wait input element    css=input[ng-model="$ctrl.vpcNameBox.value"]    vpc-temp01
     Wait Until Page Contains    Basic Information
 
 Dashborad-To-SecurityGroup
@@ -56,36 +56,32 @@ Dashborad-To-VPC Endpoints
     enter dashboard
     wait click element    css=#_vpcep
     Wait Until Page Contains    Apply for VPC Endpoint OBT
-    wait click element    jquery=button:contains(Create Now)
+    wait click element    jquery=button:contains(Apply Now)
     Select Window    new
     Wait Until Page Contains    Apply for Open Beta Test
-    Comment    Close Window
+    close new select old
 
 Dashborad-To-VPN Gateways
     enter dashboard
-    wait click element    css=#_vpngw
-    wait click element    jquery=button span:contains(Buy VPN Gateway)
+    wait click element    css=#vpngwAll >span
+    wait click element    jquery=span:contains(Buy VPN Gateway)
     Wait Until Page Contains    Billing Mode
 
 Dashborad-To-Direct Connections
     enter dashboard
-    wait click element    css=#_dline
-    Wait Until Page Contains    Direct connections requested through
-    wait click element    css=#vpc_vpcmanager_physicalDlineTe
-    Wait Until Page Contains    To view direct connection history
-    wait click element    jquery=button span:contains(Buy Connection from Partner)
-    Select Window    new
-    Wait Until Page Contains    产品分类
-    Comment    Close Browser
+    wait click element    css=#dc_physicalDlines >span
+    Wait Until Page Contains    To connect your network to HUAWEI CLOUD, you must first create a connection
+    wait click element    css=a[ng-href="#/dc/createPhyDlinePartner"]
+    Wait Until Page Contains    Your Equipment Room Address
 
 Dashborad-To-Cloud Connection
     enter dashboard
-    wait click element    css=#_crossNetwork
-    wait click element    jquery=button span:contains(Create Cloud Connection)
+    wait click element    css=#cloudConnect_cnsAll >span
+    wait click element    css=#createCCBtn > span.cti-btn-label.ng-binding.ng-scope
     Wait Until Page Contains    Description
 
 Dashborad-To-VPN Connections
     enter dashboard
-    wait click element    css=#_vpn
-    wait click element    jquery=button span:contains(Buy VPN Connection)
+    wait click element    css=#vpngwAll >span
+    wait click element    jquery=span:contains(Buy VPN Gateway)
     Wait Until Page Contains    Billing Mode
