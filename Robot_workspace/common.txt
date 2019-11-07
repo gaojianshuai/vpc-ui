@@ -4,9 +4,9 @@ Library           Selenium2Library
 *** Keywords ***
 wait element
     [Arguments]    ${LOCATOR}
-    sleep    1
+    sleep    2
     Wait Until Element Is Visible    ${LOCATOR}
-    Comment    Wait Until Element Is Enabled    ${LOCATOR}
+    Wait Until Element Is Enabled    ${LOCATOR}
     Wait Until Page Contains Element    ${LOCATOR}
     SLEEP    2
 
@@ -28,7 +28,7 @@ Login_Beijing
     Sleep    2
 
 Login_retry
-    Open Browser    https://console.huaweicloud.com/vpc/?region=cn-north-1&locale=en-us#/vpc/vpcmanager/dashboard    gc
+    Open Browser    https://console.huaweicloud.com/vpc/?region=cn-north-1&locale=en-us#/vpc/vpcmanager/dashboard    chrome
     Maximize Browser Window
     Set Window Size    1920    1080
     ${winsize}    Get Window Size

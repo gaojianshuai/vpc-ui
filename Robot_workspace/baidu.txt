@@ -1,0 +1,30 @@
+*** Settings ***
+Suite Teardown    Close All Browsers
+Library           Selenium2Library
+
+*** Test Cases ***
+baidu
+    Comment    打开谷歌浏览器浏览器
+    Open Browser    https://www.baidu.com    chrome
+    Maximize Browser Window
+    Set Window Size    1920    1080
+    Wait Until Page Contains    百度    5
+    Capture Page Screenshot
+    Wait Until Page Contains Element    css=input[name="wd"]    5
+    Input Text    css=input[name="wd"]    柯莱特
+    Click Button    css=input[value="百度一下"]
+    Wait Until Page Contains    柯莱特吧_百度贴吧    5
+    Capture Page Screenshot
+
+boss recruit
+    Comment    当浏览器打开的时候，我门直接用goto
+    Go To    https://www.zhipin.com/
+    Wait Until Page Contains    热门职位    5
+    sleep    3
+    Wait Until Page Contains Element    css=input[placeholder="搜索职位、公司"]    5
+    Input Text    css=input[placeholder="搜索职位、公司"]    软件测试工程师
+    sleep    3
+    Click Button    css=.btn-search
+    Capture Page Screenshot
+    Wait Until Page Contains    中软国际    5
+    Capture Page Screenshot
